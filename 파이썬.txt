@@ -1,11 +1,11 @@
-apply-03-01
-code04-02
-question-04-10
-apply-04-02
-code05-09
-question-05-08
-apply-05-02
-apply-06-02
-question-06-09
+apply-03-01  -->  출력 결과 다름
+code04-02  -->    오타
+question-04-10  해결
+apply-04-02    -->    오타
+code05-09    -->    오타
+question-05-08  현재 화면에서 벗어났는지 여부?
+apply-05-02  확인해보기
+apply-06-02  확인해보기
+question-06-09  미작성
 
 turtle 실행 문제

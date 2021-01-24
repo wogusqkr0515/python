@@ -5,7 +5,7 @@ swidth, sheight = 500, 500
 
 ## 메인 코드 부분 ##
 turtle.title('무지개색 원그리기')
-turtle.Shape('turtle')
+turtle.shape('turtle')
 turtle.setup(width = swidth + 50, height = sheight + 50)
 turtle.screensize(swidth, sheight)
 turtle.penup()

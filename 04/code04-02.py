@@ -7,7 +7,7 @@ r, g, b, angle, dist, curX, curY = [0] * 7
 
 ## 메인 코드 부분 ##
 turtle.title('거북이가 맘대로 다니기')
-turtle.Shape('turtle')
+turtle.shape('turtle')
 turtle.pensize(pSize)
 turtle.setup(width = swidth + 30, height = sheight + 30)
 turtle.screensize(swidth,sheight)

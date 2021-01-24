@@ -22,13 +22,13 @@ if __name__ == "__main__" :
     while True :
         angle = random.randrange(0, 360)
         dist = random.randrange(1, 50)
-        t1.left(angle); t1.forward(dist)
+        t1.left(angle); t1.forward(dist); t1.speed(10)
         angle = random.randrange(0, 360)
         dist = random.randrange(1, 50)
-        t2.left(angle); t2.forward(dist)
+        t2.left(angle); t2.forward(dist); t2.speed(10)
         angle = random.randrange(0, 360)
         dist = random.randrange(1, 50)
-        t3.left(angle); t3.forward(dist)
+        t3.left(angle); t3.forward(dist); t3.speed(10)
 
         t1X = t1.xcor(); t1Y = t1.ycor()
         t2X = t2.xcor(); t2Y = t2.ycor()

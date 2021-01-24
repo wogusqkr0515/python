@@ -7,7 +7,7 @@ swidth, sheight = 800, 450
 ## 메인 코드 부분 ##
 if __name__ == "__main__" :
     turtle.title('거북 구구단')
-    turtle.Shape('turtle')
+    turtle.shape('turtle')
     turtle.setup(width = swidth + 50, height = sheight + 50)
     turtle.screensize(swidth, sheight)
     turtle.penup()
