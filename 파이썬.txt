@@ -6,6 +6,6 @@ code05-09    -->    오타
 question-05-08  현재 화면에서 벗어났는지 여부?
 apply-05-02  확인해보기
 apply-06-02  확인해보기
-question-06-09  미작성
+question-06-09  해결
 
 turtle 실행 문제
